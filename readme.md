@@ -9,7 +9,7 @@ pass.
 If all tests are green from the last commiter write a *single* test to
 describe the piece of behavior.
 
-[![browser support](http://ci.testling.com/nrn/tdd_chess_caesar.png)](http://ci.testling.com/nrn/tdd_chess_caesar.png)
+[![browser support](http://ci.testling.com/nrn/tdd_chess_caesar.png)](http://ci.testling.com/nrn/tdd_chess_caesar)
 
 ```
 git clone git@github.com:nrn/tdd_chess_caesar
