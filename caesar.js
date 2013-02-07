@@ -1,7 +1,9 @@
 // caesar.js
 module.exports = caesar
 
-function caesar (char) {
-  return 'a';
-}
+var characters = ['a','b'];
 
+function caesar (rotation, char) {
+  var currentIndex = characters.indexOf(char)
+  return characters[currentIndex + rotation];
+}
